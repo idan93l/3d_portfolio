@@ -1,4 +1,5 @@
 import { BrowserRouter } from "react-router-dom";
+
 import {
   About,
   Contact,
@@ -30,7 +31,7 @@ const App = () => {
         </div>
       </div>
     </BrowserRouter>
-  )
+  );
 };
 
 export default App;
